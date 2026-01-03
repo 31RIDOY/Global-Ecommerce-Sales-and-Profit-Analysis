@@ -1,0 +1,603 @@
+Order_Date,Country,Product_Category,Sales_Amount,Profit_Margin,Shipping_Cost,Order_Status
+2024-01-02,France,Fashion,1302.53,0.05,95.63,Delivered
+2024-01-02,Germany,Beauty,286.93,0.11,48.05,Cancelled
+2024-01-02,France,Sports,1025.6795811518323,0.19,55.54,Cancelled
+2024-01-04,USA,Electronics,92.56,0.26,74.69,Returned
+2024-01-05,France,Sports,1025.6795811518323,0.29,78.31,Cancelled
+2024-01-05,Canada,Beauty,415.45,0.29,63.74,Delivered
+2024-01-06,Unknown,Fashion,1325.64,0.15,30.01,Returned
+2024-01-09,UK,Home Decor,576.15,0.24,76.86,Cancelled
+2024-01-09,France,Beauty,1933.35,0.25,21.51,Cancelled
+2024-01-13,France,Beauty,1562.44,0.18,16.03,Returned
+2024-01-13,UK,Electronics,1584.46,0.22,44.59,Delivered
+2024-01-14,Unknown,Home Decor,1858.0,0.22,45.81,Not Available
+2024-01-15,UK,Sports,182.94,0.05,88.83,Returned
+2024-01-15,Unknown,Beauty,73.64,0.2,74.29,Cancelled
+2024-01-17,Canada,Beauty,1876.8,0.16,17.52,Returned
+2024-01-18,Unknown,Sports,1894.11,0.06,20.55,Delivered
+2024-01-20,France,Home Decor,1176.31,0.22,68.35,Not Available
+2024-01-21,Unknown,Home Decor,1094.86,0.2,18.59,Returned
+2024-01-22,USA,Home Decor,1331.06,0.24,55.51,Returned
+2024-01-22,France,Electronics,491.98,0.16,94.93,Delivered
+2024-01-26,UK,Electronics,1020.73,0.05,16.81,Not Available
+2024-01-27,Canada,Sports,1530.83,0.18,85.41,Delivered
+2024-01-28,Germany,Sports,516.4,0.15,37.26,Cancelled
+2024-01-28,USA,Electronics,179.97,0.23,74.66,Cancelled
+2024-01-29,Germany,Beauty,1789.57,0.22,80.76,Cancelled
+2024-02-02,UK,Home Decor,901.86,0.11,84.57,Returned
+2024-02-02,USA,Others,171.47,0.29,91.17,Cancelled
+2024-02-04,Germany,Sports,1574.95,0.2,60.77,Not Available
+2024-02-04,UK,Beauty,1344.39,0.13,75.92,Delivered
+2024-02-04,Germany,Electronics,927.08,0.16,80.26,Cancelled
+2024-02-05,Unknown,Electronics,1912.9,0.16,76.1,Returned
+2024-02-05,Unknown,Beauty,609.92,0.29,97.13,Delivered
+2024-02-06,Unknown,Beauty,1369.11,0.23,28.03,Cancelled
+2024-02-06,Canada,Others,1945.41,0.09,15.2,Delivered
+2024-02-07,UK,Beauty,161.26,0.12,19.23,Not Available
+2024-02-08,Canada,Beauty,177.15,0.26,26.51,Returned
+2024-02-08,Canada,Sports,1918.24,0.26,75.11,Not Available
+2024-02-10,Unknown,Others,335.43,0.18,68.92,Delivered
+2024-02-10,Unknown,Fashion,335.43,0.18,68.92,Delivered
+2024-02-10,Unknown,Sports,1968.17,0.16,48.04,Returned
+2024-02-11,UK,Electronics,1952.95,0.23,92.89,Delivered
+2024-02-13,France,Electronics,342.83,0.14,26.13,Not Available
+2024-02-13,UK,Electronics,1710.28,0.21,62.21,Delivered
+2024-02-14,Canada,Fashion,1292.54,0.16,83.54,Cancelled
+2024-02-15,France,Sports,1963.53,0.22,41.88,Returned
+2024-02-16,Canada,Beauty,945.57,0.19,34.38,Cancelled
+2024-02-17,Unknown,Home Decor,1043.37,0.26,82.6,Delivered
+2024-02-18,Unknown,Home Decor,181.84,0.12,78.16,Not Available
+2024-02-18,USA,Electronics,1142.33,0.27,24.52,Cancelled
+2024-02-19,USA,Others,1025.6795811518323,0.22,27.24,Delivered
+2024-02-20,USA,Sports,1793.28,0.14,10.75,Cancelled
+2024-02-20,Germany,Fashion,531.61,0.06,55.28,Cancelled
+2024-02-20,Canada,Sports,1137.68,0.27,10.81,Returned
+2024-02-21,Germany,Beauty,241.26,0.12,40.2,Cancelled
+2024-02-21,France,Home Decor,1632.95,0.29,35.01,Returned
+2024-02-22,France,Beauty,1691.9,0.17,16.8,Returned
+2024-02-22,UK,Home Decor,1730.93,0.12,94.67,Returned
+2024-02-22,Unknown,Home Decor,1985.34,0.07,78.49,Cancelled
+2024-02-22,France,Sports,1452.74,0.29,90.14,Returned
+2024-02-23,USA,Home Decor,1769.76,0.11,22.63,Delivered
+2024-02-23,Germany,Sports,852.94,0.26,28.56,Cancelled
+2024-02-23,USA,Beauty,1025.6795811518323,0.16,13.5,Returned
+2024-02-23,France,Sports,1309.33,0.14,33.78,Not Available
+2024-02-23,France,Sports,1058.67,0.17,43.16,Not Available
+2024-02-24,France,Fashion,957.15,0.23,93.36,Delivered
+2024-02-27,UK,Others,1319.4,0.1,45.27,Delivered
+2024-02-27,Unknown,Fashion,1035.15,0.25,15.98,Returned
+2024-02-27,UK,Beauty,1690.82,0.16,33.77,Not Available
+2024-02-28,Unknown,Beauty,505.74,0.12,52.92,Returned
+2024-02-29,France,Fashion,1786.0,0.25,77.5,Not Available
+2024-02-29,UK,Electronics,1196.99,0.1,70.56,Not Available
+2024-03-02,France,Beauty,1637.24,0.21,77.88,Not Available
+2024-03-02,Unknown,Fashion,1335.74,0.13,59.18,Delivered
+2024-03-03,Germany,Home Decor,1299.61,0.07,97.58,Returned
+2024-03-03,Unknown,Sports,908.63,0.21,53.56,Not Available
+2024-03-03,USA,Fashion,263.99,0.18,34.67,Delivered
+2024-03-05,Germany,Beauty,313.57,0.06,35.42,Delivered
+2024-03-06,USA,Others,1808.44,0.26,31.15,Delivered
+2024-03-08,Canada,Sports,555.63,0.29,69.78,Delivered
+2024-03-15,UK,Electronics,222.77,0.14,66.72,Returned
+2024-03-21,Germany,Home Decor,1245.23,0.26,46.32,Not Available
+2024-03-21,Canada,Fashion,1317.89,0.14,37.35,Delivered
+2024-03-21,France,Electronics,120.51,0.07,69.1,Delivered
+2024-03-26,USA,Home Decor,1689.7,0.25,97.32,Delivered
+2024-03-28,Unknown,Home Decor,1209.23,0.06,98.31,Returned
+2024-03-29,USA,Others,1346.58,0.28,20.67,Not Available
+2024-04-01,UK,Beauty,1721.5,0.08,43.53,Returned
+2024-04-01,Germany,Sports,1691.96,0.06,77.88,Cancelled
+2024-04-01,USA,Beauty,737.13,0.21,72.31,Not Available
+2024-04-04,UK,Sports,539.38,0.23,60.12,Not Available
+2024-04-05,Germany,Sports,1002.07,0.17,98.07,Delivered
+2024-04-05,USA,Electronics,131.8,0.08,95.0,Cancelled
+2024-04-06,Germany,Beauty,1290.77,0.29,28.24,Not Available
+2024-04-06,UK,Fashion,1000.76,0.07,64.95,Delivered
+2024-04-07,Unknown,Fashion,1201.18,0.08,95.21,Not Available
+2024-04-08,France,Home Decor,1021.6,0.24,56.93,Returned
+2024-04-08,France,Beauty,849.31,0.23,11.97,Delivered
+2024-04-08,USA,Sports,1708.7,0.12,47.42,Cancelled
+2024-04-08,Canada,Sports,1266.6,0.06,69.49,Delivered
+2024-04-08,USA,Beauty,1025.6795811518323,0.21,56.73,Delivered
+2024-04-08,USA,Sports,1025.6795811518323,0.23,29.3,Returned
+2024-04-09,Unknown,Sports,1976.18,0.21,86.84,Returned
+2024-04-10,Canada,Sports,74.58,0.17,76.8,Not Available
+2024-04-10,France,Home Decor,857.55,0.15,13.82,Returned
+2024-04-10,USA,Electronics,775.73,0.19,26.14,Returned
+2024-04-12,Unknown,Electronics,1723.45,0.07,68.87,Cancelled
+2024-04-13,Germany,Sports,1869.57,0.29,68.44,Delivered
+2024-04-13,USA,Fashion,1747.63,0.12,83.92,Returned
+2024-04-15,Unknown,Fashion,824.11,0.13,13.24,Cancelled
+2024-04-15,Unknown,Electronics,517.75,0.12,16.93,Delivered
+2024-04-17,USA,Beauty,1060.9,0.22,87.64,Returned
+2024-04-17,Germany,Beauty,1476.42,0.19,78.28,Not Available
+2024-04-21,USA,Home Decor,1598.68,0.25,75.95,Cancelled
+2024-04-21,UK,Electronics,1582.02,0.18,36.31,Not Available
+2024-04-22,Canada,Beauty,892.55,0.19,97.36,Returned
+2024-04-22,Canada,Beauty,480.19,0.08,32.35,Returned
+2024-04-22,Unknown,Beauty,519.35,0.13,73.41,Not Available
+2024-04-22,USA,Fashion,1960.94,0.2,27.91,Not Available
+2024-04-22,Germany,Home Decor,488.0,0.09,56.68,Delivered
+2024-04-23,Canada,Beauty,945.52,0.22,11.63,Not Available
+2024-04-25,Unknown,Beauty,273.8,0.21,72.68,Cancelled
+2024-04-25,Unknown,Electronics,896.34,0.07,50.89,Returned
+2024-04-25,Germany,Electronics,1339.67,0.14,91.55,Cancelled
+2024-04-29,USA,Beauty,1025.6795811518323,0.07,69.36,Delivered
+2024-04-29,Canada,Beauty,908.39,0.07,90.58,Cancelled
+2024-04-30,Unknown,Electronics,1560.57,0.2,84.95,Cancelled
+2024-05-02,UK,Home Decor,1465.66,0.19,70.84,Returned
+2024-05-03,UK,Beauty,362.14,0.17,73.1,Cancelled
+2024-05-03,France,Fashion,246.24,0.28,26.91,Cancelled
+2024-05-04,UK,Home Decor,212.75,0.26,82.4,Delivered
+2024-05-05,France,Sports,1025.6795811518323,0.16,64.33,Cancelled
+2024-05-06,UK,Home Decor,693.92,0.13,71.98,Returned
+2024-05-07,UK,Home Decor,373.26,0.14,64.51,Returned
+2024-05-07,USA,Fashion,1018.1,0.22,41.84,Delivered
+2024-05-07,Unknown,Beauty,215.34,0.14,87.88,Returned
+2024-05-07,Unknown,Fashion,444.84,0.08,49.1,Delivered
+2024-05-08,UK,Others,658.04,0.18,10.0,Delivered
+2024-05-08,France,Fashion,340.33,0.27,65.2,Cancelled
+2024-05-09,Germany,Home Decor,948.05,0.21,16.93,Delivered
+2024-05-09,Canada,Sports,435.07,0.1,41.19,Not Available
+2024-05-10,Canada,Beauty,1550.14,0.07,36.69,Not Available
+2024-05-10,UK,Home Decor,1917.37,0.11,29.99,Cancelled
+2024-05-10,France,Beauty,1580.55,0.26,62.6,Delivered
+2024-05-10,Unknown,Beauty,838.42,0.24,27.72,Not Available
+2024-05-13,Canada,Sports,1291.51,0.14,14.65,Returned
+2024-05-14,France,Fashion,441.82,0.13,75.6,Returned
+2024-05-14,France,Home Decor,327.39,0.28,39.28,Returned
+2024-05-14,France,Fashion,310.29,0.2,56.35,Cancelled
+2024-05-15,USA,Home Decor,907.05,0.28,57.03,Delivered
+2024-05-16,Unknown,Fashion,210.23,0.18,65.92,Cancelled
+2024-05-18,Canada,Home Decor,471.27,0.2,30.35,Delivered
+2024-05-19,Germany,Electronics,1143.29,0.12,93.94,Delivered
+2024-05-21,France,Beauty,1089.41,0.29,99.75,Not Available
+2024-05-22,USA,Home Decor,667.69,0.25,41.55,Delivered
+2024-05-22,USA,Beauty,945.92,0.21,44.25,Not Available
+2024-05-23,USA,Fashion,1258.2,0.12,15.63,Returned
+2024-05-23,Canada,Beauty,1752.98,0.27,89.47,Not Available
+2024-05-23,Unknown,Fashion,388.84,0.22,48.24,Delivered
+2024-05-24,UK,Sports,928.18,0.23,83.96,Cancelled
+2024-05-26,Germany,Home Decor,728.49,0.27,44.45,Cancelled
+2024-05-26,USA,Fashion,416.65,0.27,19.17,Not Available
+2024-05-26,France,Fashion,1804.68,0.12,10.18,Returned
+2024-05-26,USA,Fashion,200.26,0.24,16.16,Not Available
+2024-05-27,Germany,Fashion,243.4,0.12,50.52,Returned
+2024-05-27,UK,Home Decor,743.0,0.3,10.75,Returned
+2024-05-29,Canada,Sports,884.99,0.25,95.63,Returned
+2024-05-29,Canada,Fashion,1770.71,0.06,79.55,Delivered
+2024-05-30,UK,Sports,1458.04,0.28,88.97,Delivered
+2024-05-30,France,Electronics,554.31,0.21,60.46,Delivered
+2024-05-31,UK,Home Decor,286.7,0.06,48.95,Cancelled
+2024-05-31,UK,Electronics,1587.8,0.07,34.2,Cancelled
+2024-05-31,France,Electronics,1405.53,0.27,96.46,Not Available
+2024-06-01,Germany,Beauty,1325.87,0.05,29.59,Returned
+2024-06-01,Germany,Beauty,1687.61,0.06,37.09,Returned
+2024-06-03,Canada,Beauty,1525.67,0.21,32.79,Cancelled
+2024-06-05,Unknown,Others,766.69,0.05,23.64,Not Available
+2024-06-06,UK,Others,1025.6795811518323,0.17,72.65,Returned
+2024-06-06,France,Home Decor,557.31,0.29,90.18,Cancelled
+2024-06-06,Germany,Beauty,184.47,0.17,88.87,Returned
+2024-06-08,Germany,Sports,1619.73,0.26,65.51,Not Available
+2024-06-08,Canada,Beauty,665.04,0.12,12.27,Delivered
+2024-06-08,Canada,Electronics,1084.09,0.28,43.65,Cancelled
+2024-06-08,France,Others,1329.52,0.27,18.29,Delivered
+2024-06-09,USA,Fashion,1793.67,0.15,27.11,Cancelled
+2024-06-09,UK,Fashion,209.36,0.16,66.83,Delivered
+2024-06-09,Canada,Home Decor,1884.32,0.21,26.71,Returned
+2024-06-09,Unknown,Home Decor,337.53,0.15,69.98,Not Available
+2024-06-10,USA,Electronics,456.6,0.2,56.5,Not Available
+2024-06-11,Unknown,Sports,97.17,0.15,68.97,Delivered
+2024-06-11,France,Fashion,169.63,0.27,10.13,Delivered
+2024-06-13,Canada,Fashion,626.12,0.15,75.94,Cancelled
+2024-06-15,USA,Sports,928.22,0.12,12.63,Not Available
+2024-06-17,USA,Sports,1060.25,0.17,24.44,Not Available
+2024-06-18,Germany,Home Decor,1103.02,0.28,74.65,Returned
+2024-06-18,UK,Sports,1822.98,0.14,89.43,Cancelled
+2024-06-18,France,Beauty,1025.6795811518323,0.13,77.66,Cancelled
+2024-06-18,USA,Sports,949.88,0.28,73.44,Not Available
+2024-06-19,France,Beauty,1580.78,0.26,24.67,Not Available
+2024-06-20,Unknown,Sports,1077.73,0.2,17.06,Delivered
+2024-06-20,Unknown,Electronics,151.9,0.28,11.72,Not Available
+2024-06-20,UK,Electronics,1025.6795811518323,0.09,35.72,Cancelled
+2024-06-20,Germany,Fashion,1470.56,0.15,95.63,Not Available
+2024-06-21,Canada,Home Decor,1025.6795811518323,0.18,15.99,Not Available
+2024-06-22,Germany,Sports,1049.38,0.27,55.7,Returned
+2024-06-23,UK,Beauty,1988.57,0.26,54.9,Delivered
+2024-06-24,UK,Fashion,102.98,0.12,50.62,Returned
+2024-06-24,UK,Home Decor,1472.54,0.23,81.04,Delivered
+2024-06-27,Germany,Home Decor,1001.32,0.07,87.55,Delivered
+2024-06-28,France,Beauty,621.0,0.27,66.91,Not Available
+2024-06-28,USA,Sports,1969.02,0.15,80.38,Returned
+2024-06-29,UK,Electronics,489.37,0.29,65.47,Cancelled
+2024-07-02,Germany,Home Decor,306.87,0.17,32.58,Returned
+2024-07-04,France,Home Decor,346.6,0.12,69.55,Delivered
+2024-07-05,France,Sports,903.33,0.25,11.03,Cancelled
+2024-07-05,Unknown,Fashion,1889.0,0.16,76.41,Returned
+2024-07-05,Unknown,Fashion,950.04,0.3,71.21,Returned
+2024-07-06,France,Fashion,1319.21,0.25,67.66,Delivered
+2024-07-06,Germany,Electronics,390.94,0.2,39.9,Cancelled
+2024-07-06,UK,Electronics,1144.38,0.08,48.6,Not Available
+2024-07-08,France,Sports,388.37,0.21,63.2,Returned
+2024-07-08,Unknown,Beauty,1249.83,0.29,10.48,Not Available
+2024-07-08,France,Electronics,73.61,0.21,88.43,Delivered
+2024-07-08,Germany,Beauty,699.35,0.23,60.86,Returned
+2024-07-09,UK,Fashion,1727.27,0.06,73.19,Cancelled
+2024-07-09,UK,Fashion,1842.81,0.27,95.54,Returned
+2024-07-10,USA,Home Decor,1928.62,0.25,56.34,Delivered
+2024-07-10,Canada,Electronics,584.61,0.17,16.58,Returned
+2024-07-12,Unknown,Others,702.3,0.25,78.8,Returned
+2024-07-13,Germany,Beauty,207.17,0.21,58.2,Delivered
+2024-07-14,Unknown,Beauty,1647.17,0.14,90.02,Returned
+2024-07-16,Canada,Sports,395.99,0.21,63.91,Cancelled
+2024-07-16,USA,Beauty,1540.53,0.09,35.89,Cancelled
+2024-07-16,Unknown,Others,1041.3,0.25,19.53,Cancelled
+2024-07-17,USA,Fashion,1130.74,0.26,18.34,Not Available
+2024-07-19,Canada,Beauty,1534.19,0.09,62.88,Delivered
+2024-07-19,Unknown,Beauty,286.7,0.23,74.14,Not Available
+2024-07-20,Unknown,Electronics,1864.66,0.23,78.29,Delivered
+2024-07-21,Canada,Fashion,371.39,0.06,96.85,Not Available
+2024-07-24,Canada,Fashion,1432.05,0.08,42.27,Cancelled
+2024-07-25,Germany,Home Decor,469.64,0.28,72.75,Returned
+2024-07-26,UK,Fashion,701.76,0.24,92.87,Not Available
+2024-07-26,Germany,Beauty,1952.44,0.14,86.95,Not Available
+2024-07-26,Unknown,Beauty,1671.81,0.28,33.42,Not Available
+2024-07-31,Germany,Beauty,724.89,0.11,39.84,Delivered
+2024-08-01,USA,Beauty,304.89,0.08,73.84,Not Available
+2024-08-02,France,Fashion,324.39,0.24,75.05,Returned
+2024-08-02,USA,Fashion,1116.06,0.18,28.83,Not Available
+2024-08-02,Canada,Beauty,1025.6795811518323,0.24,54.78,Returned
+2024-08-03,UK,Beauty,1249.68,0.06,45.39,Returned
+2024-08-04,France,Electronics,1232.19,0.17,82.98,Not Available
+2024-08-05,UK,Home Decor,988.62,0.22,19.23,Returned
+2024-08-05,Canada,Fashion,1564.07,0.3,36.76,Not Available
+2024-08-05,Germany,Home Decor,1984.71,0.2,49.3,Delivered
+2024-08-07,Germany,Electronics,866.65,0.14,24.92,Not Available
+2024-08-07,Canada,Electronics,1779.5,0.06,45.79,Not Available
+2024-08-09,USA,Fashion,683.12,0.06,73.11,Delivered
+2024-08-10,UK,Electronics,1025.6795811518323,0.26,72.29,Not Available
+2024-08-11,Unknown,Home Decor,1729.67,0.19,34.17,Delivered
+2024-08-12,UK,Beauty,1700.7,0.14,35.87,Delivered
+2024-08-12,France,Fashion,1915.18,0.14,70.54,Not Available
+2024-08-12,USA,Fashion,1549.99,0.06,46.41,Cancelled
+2024-08-13,Germany,Electronics,1025.6795811518323,0.06,87.29,Not Available
+2024-08-14,Germany,Sports,1290.55,0.07,84.23,Returned
+2024-08-14,USA,Home Decor,767.13,0.08,95.7,Returned
+2024-08-16,France,Fashion,1286.58,0.18,39.21,Delivered
+2024-08-17,USA,Others,600.26,0.08,45.35,Not Available
+2024-08-18,France,Electronics,782.98,0.14,95.24,Returned
+2024-08-18,USA,Beauty,188.95,0.21,36.1,Returned
+2024-08-18,USA,Electronics,1405.32,0.15,86.36,Not Available
+2024-08-18,Germany,Home Decor,936.04,0.05,27.57,Cancelled
+2024-08-20,USA,Fashion,954.67,0.05,32.08,Cancelled
+2024-08-20,Canada,Fashion,1658.85,0.09,76.41,Cancelled
+2024-08-20,UK,Fashion,1607.49,0.13,70.43,Returned
+2024-08-20,UK,Sports,389.51,0.3,70.66,Returned
+2024-08-21,Germany,Beauty,794.78,0.15,80.54,Not Available
+2024-08-23,USA,Others,185.38,0.23,56.93,Not Available
+2024-08-23,USA,Sports,185.38,0.23,56.93,Not Available
+2024-08-24,Germany,Beauty,1299.9,0.17,28.64,Returned
+2024-08-24,USA,Electronics,819.23,0.23,54.66,Delivered
+2024-08-25,France,Fashion,1915.4,0.12,94.7,Delivered
+2024-08-27,France,Beauty,1025.6795811518323,0.12,76.29,Cancelled
+2024-08-28,Canada,Sports,1696.5,0.16,41.08,Cancelled
+2024-08-29,France,Home Decor,507.55,0.2,92.76,Returned
+2024-08-30,USA,Fashion,546.61,0.16,73.33,Delivered
+2024-08-31,UK,Sports,167.28,0.19,30.58,Delivered
+2024-09-02,France,Fashion,1555.42,0.18,81.24,Returned
+2024-09-03,Germany,Fashion,1100.47,0.13,51.97,Returned
+2024-09-03,UK,Home Decor,1970.11,0.21,68.37,Not Available
+2024-09-08,UK,Beauty,56.28,0.08,32.28,Delivered
+2024-09-08,Unknown,Sports,832.91,0.1,96.18,Returned
+2024-09-08,Canada,Beauty,835.81,0.18,28.42,Not Available
+2024-09-08,Canada,Fashion,1541.38,0.1,85.22,Cancelled
+2024-09-09,Unknown,Sports,1459.49,0.14,25.45,Cancelled
+2024-09-09,Germany,Electronics,742.24,0.06,96.41,Cancelled
+2024-09-10,France,Sports,1144.89,0.26,84.07,Not Available
+2024-09-10,Canada,Beauty,871.43,0.12,15.76,Not Available
+2024-09-11,Germany,Sports,466.35,0.29,64.9,Not Available
+2024-09-11,USA,Electronics,87.42,0.22,56.25,Returned
+2024-09-12,Germany,Sports,1025.6795811518323,0.1,57.93,Returned
+2024-09-13,USA,Fashion,71.51,0.14,74.3,Returned
+2024-09-14,UK,Home Decor,1400.25,0.12,74.06,Returned
+2024-09-15,Unknown,Beauty,1984.03,0.14,32.78,Not Available
+2024-09-15,Unknown,Electronics,241.87,0.16,14.67,Delivered
+2024-09-16,Canada,Sports,922.04,0.16,25.77,Cancelled
+2024-09-17,Canada,Home Decor,1989.99,0.08,69.67,Delivered
+2024-09-18,Germany,Sports,1104.55,0.11,62.09,Not Available
+2024-09-19,Unknown,Electronics,1406.46,0.22,34.37,Cancelled
+2024-09-20,France,Beauty,536.62,0.13,87.29,Not Available
+2024-09-20,Canada,Sports,299.04,0.07,80.88,Not Available
+2024-09-20,UK,Fashion,1078.43,0.29,27.55,Returned
+2024-09-20,USA,Sports,1605.93,0.24,43.79,Not Available
+2024-09-21,Germany,Electronics,828.67,0.27,99.39,Not Available
+2024-09-23,France,Others,1025.6795811518323,0.07,67.39,Cancelled
+2024-09-24,Unknown,Beauty,1330.13,0.15,34.87,Returned
+2024-09-24,Unknown,Beauty,247.04,0.13,26.35,Not Available
+2024-09-25,France,Electronics,1438.43,0.11,91.71,Returned
+2024-09-26,Canada,Sports,792.22,0.08,90.47,Cancelled
+2024-09-27,Germany,Sports,682.45,0.29,24.64,Cancelled
+2024-09-27,USA,Electronics,373.61,0.11,56.62,Returned
+2024-09-27,France,Fashion,1621.55,0.21,47.75,Not Available
+2024-09-29,Unknown,Fashion,1765.18,0.27,85.25,Returned
+2024-09-30,USA,Electronics,1524.52,0.24,53.28,Not Available
+2024-10-01,USA,Home Decor,1260.81,0.05,34.48,Cancelled
+2024-10-03,Canada,Sports,1691.77,0.21,71.66,Returned
+2024-10-03,Germany,Electronics,217.03,0.19,98.31,Not Available
+2024-10-03,Unknown,Sports,1564.59,0.12,77.35,Not Available
+2024-10-06,Canada,Home Decor,1622.49,0.1,47.73,Returned
+2024-10-06,Canada,Beauty,1689.37,0.23,34.4,Returned
+2024-10-06,Germany,Electronics,1849.38,0.29,55.62,Not Available
+2024-10-06,Germany,Electronics,1236.63,0.23,45.19,Returned
+2024-10-07,Canada,Home Decor,1707.45,0.24,40.35,Returned
+2024-10-09,USA,Fashion,317.36,0.05,93.96,Not Available
+2024-10-09,Canada,Fashion,580.3,0.05,70.92,Cancelled
+2024-10-09,UK,Others,628.24,0.13,66.24,Cancelled
+2024-10-10,France,Electronics,1247.17,0.2,55.43,Cancelled
+2024-10-10,Canada,Electronics,115.55,0.26,24.43,Cancelled
+2024-10-10,Canada,Sports,124.93,0.26,49.39,Cancelled
+2024-10-12,Unknown,Sports,177.46,0.23,49.53,Returned
+2024-10-12,Germany,Others,1048.83,0.16,59.74,Returned
+2024-10-14,France,Sports,151.32,0.2,81.35,Cancelled
+2024-10-14,Canada,Home Decor,1967.87,0.12,51.78,Cancelled
+2024-10-15,Germany,Sports,1025.6795811518323,0.2,89.35,Returned
+2024-10-15,UK,Beauty,946.61,0.23,97.02,Not Available
+2024-10-19,Unknown,Sports,647.19,0.11,63.16,Not Available
+2024-10-20,Canada,Electronics,1036.41,0.28,38.16,Not Available
+2024-10-20,USA,Beauty,1462.46,0.08,49.33,Returned
+2024-10-21,USA,Beauty,299.79,0.15,48.88,Returned
+2024-10-22,UK,Sports,1025.6795811518323,0.07,26.75,Cancelled
+2024-10-24,Canada,Beauty,813.48,0.22,32.35,Cancelled
+2024-10-25,USA,Sports,1970.73,0.08,40.03,Not Available
+2024-10-27,Unknown,Beauty,100.33,0.1,58.52,Returned
+2024-10-28,France,Sports,344.93,0.24,96.39,Not Available
+2024-10-30,France,Sports,164.17,0.21,43.4,Cancelled
+2024-10-30,Unknown,Sports,1180.97,0.22,82.46,Not Available
+2024-10-30,USA,Electronics,727.32,0.14,24.88,Cancelled
+2024-10-30,Canada,Home Decor,1742.71,0.17,90.33,Returned
+2024-10-30,Germany,Electronics,412.9,0.08,19.94,Delivered
+2024-10-31,USA,Electronics,864.63,0.16,62.53,Not Available
+2024-11-01,Unknown,Sports,1330.72,0.15,82.32,Not Available
+2024-11-02,Germany,Home Decor,1025.6795811518323,0.17,86.32,Cancelled
+2024-11-02,France,Fashion,1268.09,0.06,16.15,Returned
+2024-11-03,USA,Sports,60.2,0.24,77.35,Returned
+2024-11-03,France,Fashion,703.66,0.15,29.34,Cancelled
+2024-11-04,Canada,Fashion,1449.32,0.22,99.53,Not Available
+2024-11-05,Unknown,Sports,1221.16,0.24,88.01,Cancelled
+2024-11-05,UK,Electronics,101.08,0.28,46.87,Cancelled
+2024-11-06,Germany,Fashion,1013.71,0.25,38.24,Cancelled
+2024-11-08,Germany,Fashion,1070.49,0.17,58.76,Delivered
+2024-11-09,UK,Beauty,1617.03,0.27,59.36,Delivered
+2024-11-09,Canada,Fashion,680.57,0.08,91.71,Cancelled
+2024-11-10,Unknown,Home Decor,1560.54,0.16,39.92,Delivered
+2024-11-11,UK,Beauty,1930.73,0.2,88.96,Delivered
+2024-11-11,UK,Electronics,1601.13,0.26,36.0,Returned
+2024-11-12,Germany,Fashion,851.64,0.08,20.58,Cancelled
+2024-11-13,Germany,Fashion,1937.33,0.29,40.06,Not Available
+2024-11-13,USA,Beauty,1223.67,0.26,47.65,Returned
+2024-11-14,UK,Fashion,1319.74,0.09,81.66,Not Available
+2024-11-15,USA,Sports,1146.48,0.07,67.09,Not Available
+2024-11-16,Unknown,Sports,1287.44,0.13,16.67,Delivered
+2024-11-17,USA,Sports,589.96,0.05,43.26,Delivered
+2024-11-18,France,Electronics,995.16,0.14,20.39,Cancelled
+2024-11-18,USA,Beauty,1113.59,0.21,90.61,Not Available
+2024-11-19,USA,Home Decor,1877.91,0.1,34.07,Cancelled
+2024-11-20,France,Electronics,1478.96,0.18,63.79,Not Available
+2024-11-21,Unknown,Fashion,1287.61,0.07,82.27,Not Available
+2024-11-21,Canada,Electronics,68.2,0.17,46.73,Returned
+2024-11-22,UK,Home Decor,1121.58,0.13,13.38,Delivered
+2024-11-22,UK,Sports,1391.86,0.13,85.51,Cancelled
+2024-11-23,USA,Fashion,641.39,0.2,83.51,Not Available
+2024-11-24,USA,Sports,238.52,0.12,48.58,Cancelled
+2024-11-26,USA,Electronics,502.3,0.13,14.5,Cancelled
+2024-11-26,Germany,Electronics,131.26,0.27,21.85,Delivered
+2024-12-03,UK,Electronics,1025.6795811518323,0.16,10.81,Returned
+2024-12-03,Canada,Fashion,1653.84,0.06,16.4,Cancelled
+2024-12-03,Germany,Fashion,756.36,0.12,19.49,Cancelled
+2024-12-05,Unknown,Home Decor,1488.0,0.09,82.0,Delivered
+2024-12-05,Germany,Electronics,1102.92,0.25,45.32,Cancelled
+2024-12-05,France,Sports,1303.0,0.18,94.27,Not Available
+2024-12-07,Unknown,Beauty,409.24,0.14,73.79,Cancelled
+2024-12-07,France,Fashion,1935.9,0.25,78.99,Returned
+2024-12-07,Germany,Electronics,442.66,0.08,52.68,Not Available
+2024-12-08,Unknown,Home Decor,607.52,0.12,28.48,Not Available
+2024-12-09,Unknown,Sports,893.37,0.19,78.9,Delivered
+2024-12-09,Unknown,Electronics,1982.95,0.28,98.3,Cancelled
+2024-12-10,France,Home Decor,1062.17,0.28,97.96,Not Available
+2024-12-10,Canada,Home Decor,1928.07,0.08,48.27,Not Available
+2024-12-11,UK,Electronics,520.34,0.27,51.55,Not Available
+2024-12-11,USA,Fashion,1479.49,0.17,70.52,Delivered
+2024-12-11,France,Electronics,743.21,0.14,51.3,Delivered
+2024-12-11,Unknown,Electronics,1959.25,0.29,67.27,Not Available
+2024-12-11,Germany,Sports,347.21,0.1,14.04,Delivered
+2024-12-13,Unknown,Electronics,1446.83,0.09,24.15,Delivered
+2024-12-14,UK,Electronics,731.54,0.22,31.08,Returned
+2024-12-14,UK,Electronics,1466.6,0.2,62.46,Not Available
+2024-12-14,Germany,Beauty,798.47,0.07,55.24,Delivered
+2024-12-15,USA,Sports,1652.19,0.25,74.48,Not Available
+2024-12-16,France,Home Decor,1762.05,0.15,95.18,Delivered
+2024-12-17,Germany,Beauty,1118.52,0.09,82.64,Returned
+2024-12-17,France,Home Decor,1578.39,0.15,49.02,Not Available
+2024-12-19,Unknown,Others,1816.98,0.12,16.18,Not Available
+2024-12-20,UK,Beauty,255.67,0.08,44.9,Not Available
+2024-12-20,Canada,Electronics,747.71,0.09,28.2,Delivered
+2024-12-24,Canada,Sports,1337.59,0.22,59.4,Cancelled
+2024-12-24,Canada,Beauty,1532.57,0.2,43.24,Delivered
+2024-12-25,USA,Home Decor,880.86,0.22,59.0,Cancelled
+2024-12-25,UK,Home Decor,687.52,0.26,63.05,Cancelled
+2024-12-25,Unknown,Fashion,171.43,0.17,28.39,Returned
+2024-12-25,USA,Electronics,316.06,0.28,31.78,Not Available
+2024-12-25,USA,Fashion,752.27,0.26,92.64,Delivered
+2024-12-29,USA,Electronics,1474.77,0.08,42.13,Not Available
+2024-12-30,USA,Fashion,96.1,0.12,13.95,Not Available
+2024-12-30,USA,Fashion,1233.83,0.22,50.1,Cancelled
+2024-12-30,Canada,Home Decor,236.64,0.26,48.95,Not Available
+2024-12-30,Unknown,Fashion,1434.97,0.1,66.92,Cancelled
+2024-12-30,France,Electronics,1732.45,0.26,51.37,Returned
+2024-12-30,France,Home Decor,1301.84,0.21,24.92,Not Available
+2024-12-30,UK,Home Decor,1193.89,0.22,16.86,Not Available
+2024-12-30,France,Electronics,930.95,0.13,71.17,Cancelled
+2024-12-30,UK,Sports,472.64,0.11,59.19,Not Available
+2024-12-30,Canada,Beauty,377.63,0.07,34.72,Not Available
+2024-12-30,UK,Fashion,1486.9,0.09,82.63,Delivered
+2024-12-30,UK,Electronics,1266.53,0.22,55.05,Cancelled
+2024-12-30,Germany,Beauty,560.33,0.21,59.8,Returned
+2024-12-31,Germany,Beauty,409.73,0.11,93.44,Not Available
+2025-01-01,Germany,Others,172.17,0.05,70.63,Cancelled
+2025-01-01,Canada,Beauty,308.42,0.09,16.21,Not Available
+2025-01-01,UK,Fashion,1065.87,0.2,92.66,Returned
+2025-01-03,Canada,Beauty,987.9,0.29,17.3,Cancelled
+2025-01-04,Germany,Sports,1660.66,0.14,55.64,Returned
+2025-01-05,USA,Fashion,1239.94,0.19,95.75,Cancelled
+2025-01-05,USA,Beauty,1407.0,0.05,38.9,Not Available
+2025-01-06,UK,Sports,968.78,0.21,52.65,Not Available
+2025-01-06,France,Sports,1107.36,0.27,87.95,Not Available
+2025-01-07,Germany,Sports,1018.7,0.13,81.38,Delivered
+2025-01-07,Unknown,Electronics,550.23,0.17,19.48,Returned
+2025-01-08,UK,Home Decor,1305.61,0.12,15.09,Delivered
+2025-01-09,USA,Electronics,1515.18,0.09,41.9,Delivered
+2025-01-11,Germany,Beauty,738.84,0.15,32.54,Not Available
+2025-01-13,USA,Electronics,163.42,0.3,30.19,Cancelled
+2025-01-14,UK,Fashion,1152.39,0.23,64.7,Delivered
+2025-01-14,Germany,Sports,1613.0,0.08,72.51,Returned
+2025-01-14,Unknown,Fashion,1030.0,0.12,72.43,Delivered
+2025-01-18,Unknown,Home Decor,943.46,0.18,37.88,Not Available
+2025-01-18,USA,Sports,1196.15,0.12,54.2,Cancelled
+2025-01-19,UK,Home Decor,176.46,0.3,85.46,Cancelled
+2025-01-19,UK,Sports,1841.91,0.2,69.11,Returned
+2025-01-19,Unknown,Fashion,1488.14,0.07,81.7,Returned
+2025-01-20,France,Fashion,709.62,0.14,98.23,Not Available
+2025-01-20,UK,Sports,1025.6795811518323,0.16,63.42,Cancelled
+2025-01-20,Unknown,Sports,1857.65,0.11,43.46,Delivered
+2025-01-20,Canada,Home Decor,449.52,0.23,75.11,Cancelled
+2025-01-21,Germany,Fashion,1859.76,0.19,16.08,Returned
+2025-01-22,Unknown,Beauty,342.59,0.19,87.09,Returned
+2025-01-22,France,Home Decor,220.9,0.27,19.16,Not Available
+2025-01-22,USA,Home Decor,1025.6795811518323,0.06,69.62,Returned
+2025-01-24,Germany,Fashion,1129.91,0.18,29.88,Delivered
+2025-01-25,Germany,Home Decor,447.34,0.05,45.05,Returned
+2025-01-26,Canada,Fashion,346.45,0.18,30.74,Delivered
+2025-01-26,Germany,Beauty,991.79,0.16,32.5,Returned
+2025-01-27,UK,Beauty,1093.85,0.21,84.48,Delivered
+2025-01-27,UK,Home Decor,929.92,0.06,53.66,Returned
+2025-01-29,UK,Sports,1151.79,0.25,95.03,Delivered
+2025-02-01,Germany,Home Decor,1751.82,0.14,83.27,Cancelled
+2025-02-01,Germany,Electronics,556.64,0.14,55.8,Not Available
+2025-02-03,Unknown,Others,1834.43,0.18,49.01,Cancelled
+2025-02-04,UK,Others,1644.68,0.11,73.6,Cancelled
+2025-02-04,UK,Sports,1025.6795811518323,0.07,42.12,Cancelled
+2025-02-05,Canada,Home Decor,1165.15,0.15,15.06,Not Available
+2025-02-05,France,Sports,1019.08,0.16,62.35,Cancelled
+2025-02-06,USA,Sports,541.87,0.08,97.17,Returned
+2025-02-06,Germany,Fashion,1132.42,0.18,26.97,Returned
+2025-02-07,USA,Electronics,1429.98,0.2,58.45,Delivered
+2025-02-07,USA,Electronics,1615.15,0.27,36.03,Not Available
+2025-02-10,France,Electronics,1993.56,0.05,98.64,Returned
+2025-02-10,Unknown,Beauty,978.24,0.19,60.59,Cancelled
+2025-02-11,France,Sports,791.82,0.15,28.31,Cancelled
+2025-02-11,UK,Beauty,689.98,0.15,80.86,Not Available
+2025-02-12,Germany,Fashion,1653.1,0.17,91.16,Delivered
+2025-02-13,Germany,Beauty,999.77,0.13,46.85,Returned
+2025-02-14,Unknown,Fashion,90.84,0.06,41.77,Delivered
+2025-02-17,Germany,Home Decor,253.01,0.19,33.36,Delivered
+2025-02-18,France,Sports,1778.08,0.05,76.49,Returned
+2025-02-19,UK,Others,1112.8,0.19,66.13,Cancelled
+2025-02-19,USA,Home Decor,1430.28,0.18,47.08,Returned
+2025-02-20,Unknown,Home Decor,118.86,0.29,49.06,Cancelled
+2025-02-20,France,Electronics,515.65,0.14,85.9,Returned
+2025-02-21,Germany,Home Decor,1399.71,0.26,43.38,Returned
+2025-02-22,France,Sports,1572.49,0.17,75.64,Returned
+2025-02-23,UK,Beauty,447.87,0.15,85.58,Delivered
+2025-02-23,Germany,Electronics,1484.54,0.29,48.48,Returned
+2025-02-23,Unknown,Home Decor,641.1,0.28,31.64,Cancelled
+2025-02-25,USA,Home Decor,1996.78,0.07,49.83,Returned
+2025-02-27,Canada,Electronics,1665.09,0.21,31.74,Not Available
+2025-02-27,Germany,Sports,1504.18,0.1,33.28,Delivered
+2025-03-03,USA,Beauty,1522.78,0.18,42.14,Delivered
+2025-03-06,UK,Others,1583.24,0.12,16.21,Not Available
+2025-03-06,Unknown,Home Decor,1660.83,0.26,32.59,Delivered
+2025-03-06,USA,Electronics,1663.7,0.24,33.88,Cancelled
+2025-03-09,Unknown,Others,1025.6795811518323,0.21,27.93,Delivered
+2025-03-13,UK,Fashion,1025.6795811518323,0.24,27.45,Delivered
+2025-03-14,Germany,Fashion,969.01,0.08,94.52,Returned
+2025-03-14,France,Beauty,134.19,0.15,11.36,Delivered
+2025-03-15,UK,Fashion,906.84,0.24,20.2,Not Available
+2025-03-16,France,Beauty,1992.85,0.16,74.26,Cancelled
+2025-03-16,Unknown,Home Decor,1795.48,0.2,97.03,Cancelled
+2025-03-17,Germany,Home Decor,1508.74,0.12,19.12,Returned
+2025-03-18,USA,Electronics,359.87,0.25,92.24,Returned
+2025-03-18,USA,Fashion,1610.14,0.24,45.91,Returned
+2025-03-19,Germany,Home Decor,204.87,0.27,66.01,Cancelled
+2025-03-19,Canada,Fashion,366.36,0.24,65.84,Delivered
+2025-03-19,Canada,Beauty,1265.99,0.3,95.58,Cancelled
+2025-03-20,France,Fashion,582.49,0.13,24.35,Cancelled
+2025-03-21,Unknown,Sports,1025.6795811518323,0.12,11.09,Returned
+2025-03-21,USA,Fashion,731.92,0.22,61.46,Delivered
+2025-03-21,Germany,Electronics,1376.44,0.09,45.69,Cancelled
+2025-03-21,Unknown,Fashion,1025.6795811518323,0.11,35.42,Cancelled
+2025-03-21,Unknown,Sports,1355.5,0.13,79.45,Not Available
+2025-03-22,USA,Sports,443.93,0.18,69.11,Not Available
+2025-03-23,France,Home Decor,1817.55,0.11,26.13,Cancelled
+2025-03-24,France,Sports,429.51,0.14,62.54,Delivered
+2025-03-25,Germany,Electronics,371.18,0.23,66.56,Not Available
+2025-03-26,Unknown,Beauty,1251.17,0.19,97.93,Cancelled
+2025-03-28,Germany,Fashion,1088.22,0.13,30.66,Cancelled
+2025-03-28,USA,Beauty,1226.8,0.05,58.98,Returned
+2025-03-30,France,Home Decor,223.79,0.26,61.94,Delivered
+2025-03-31,France,Electronics,1590.56,0.29,80.23,Not Available
+2025-03-31,Unknown,Beauty,1216.54,0.25,73.49,Cancelled
+2025-03-31,UK,Others,566.84,0.17,37.61,Returned
+2025-04-03,Germany,Home Decor,812.27,0.1,85.93,Not Available
+2025-04-04,Unknown,Beauty,424.14,0.29,81.33,Cancelled
+2025-04-04,France,Fashion,1542.75,0.26,37.7,Delivered
+2025-04-04,Canada,Electronics,358.01,0.08,60.32,Not Available
+2025-04-05,UK,Electronics,411.13,0.1,11.09,Delivered
+2025-04-05,UK,Sports,1921.17,0.28,75.61,Delivered
+2025-04-06,France,Fashion,644.12,0.2,52.87,Returned
+2025-04-06,UK,Fashion,1480.55,0.07,64.14,Delivered
+2025-04-07,Germany,Sports,1249.28,0.24,71.69,Not Available
+2025-04-08,USA,Home Decor,531.02,0.27,11.39,Cancelled
+2025-04-08,France,Fashion,1089.27,0.05,69.99,Returned
+2025-04-13,France,Beauty,181.95,0.29,55.01,Returned
+2025-04-14,USA,Beauty,630.22,0.08,23.93,Not Available
+2025-04-14,USA,Sports,313.94,0.18,39.41,Returned
+2025-04-15,Germany,Fashion,1109.9,0.16,88.35,Not Available
+2025-04-15,Canada,Others,1596.86,0.24,29.81,Cancelled
+2025-04-16,Canada,Electronics,1938.55,0.29,67.76,Delivered
+2025-04-16,Canada,Electronics,256.05,0.15,14.92,Not Available
+2025-04-17,France,Beauty,190.56,0.06,37.88,Delivered
+2025-04-17,Germany,Fashion,768.2,0.18,18.23,Delivered
+2025-04-17,France,Electronics,280.76,0.25,49.95,Delivered
+2025-04-18,France,Home Decor,1761.77,0.1,58.21,Returned
+2025-04-18,France,Home Decor,296.22,0.11,34.26,Returned
+2025-04-19,Unknown,Others,1778.88,0.15,25.06,Cancelled
+2025-04-19,Canada,Fashion,1610.7,0.26,24.55,Cancelled
+2025-04-20,France,Sports,1766.15,0.24,32.26,Not Available
+2025-04-20,UK,Fashion,1759.47,0.27,31.78,Cancelled
+2025-04-21,UK,Beauty,1055.57,0.2,35.42,Not Available
+2025-04-21,Unknown,Sports,954.67,0.05,86.95,Returned
+2025-04-21,USA,Sports,1475.1,0.07,31.74,Cancelled
+2025-04-22,UK,Electronics,1206.44,0.17,11.24,Not Available
+2025-04-24,France,Home Decor,662.98,0.09,24.08,Cancelled
+2025-04-25,France,Home Decor,1070.61,0.25,58.68,Delivered
+2025-04-25,Germany,Electronics,1141.52,0.06,25.29,Delivered
+2025-04-25,Canada,Fashion,321.53,0.24,72.46,Delivered
+2025-04-28,UK,Electronics,632.51,0.11,16.34,Returned
+2025-04-28,France,Beauty,1644.03,0.18,41.77,Delivered
+2025-04-29,Unknown,Fashion,391.84,0.05,38.95,Returned
+2025-04-29,Canada,Home Decor,1487.85,0.08,75.44,Cancelled
+2025-04-29,France,Fashion,1641.1,0.29,53.47,Delivered
+2025-05-03,Unknown,Beauty,1533.93,0.19,92.31,Returned
+2025-05-04,UK,Sports,162.67,0.12,76.77,Not Available
+2025-05-04,USA,Fashion,1062.8,0.15,10.9,Cancelled
+2025-05-04,Germany,Electronics,1354.59,0.15,22.86,Cancelled
+2025-05-05,USA,Beauty,883.6,0.17,70.4,Cancelled
+2025-05-06,USA,Sports,1036.98,0.12,47.49,Returned
+2025-05-06,France,Home Decor,300.37,0.22,61.26,Delivered
+2025-05-06,France,Beauty,204.84,0.3,91.74,Delivered
+2025-05-07,UK,Home Decor,827.39,0.1,79.4,Not Available
+2025-05-08,France,Home Decor,822.14,0.24,82.34,Delivered
+2025-05-11,Germany,Beauty,1185.72,0.3,77.58,Returned
+2025-05-11,USA,Electronics,272.49,0.29,29.76,Delivered
+2025-05-13,Canada,Fashion,1258.2,0.08,37.38,Cancelled
+2025-05-14,Unknown,Electronics,231.33,0.12,64.61,Cancelled
