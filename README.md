@@ -24,7 +24,7 @@ Business Insights & Findings
 
 Strategic Recommendations
 
-    Reduce Return Rates: Investigate the root causes of high returns in the Beauty and Sports Sectors (e.g., product quality or sizing issue).
+    Reduce Return Rates: Investigate the root causes of high returns in the Beauty and Sports sector (e.g. product quality or sizing issue).
     
 Inventory Optimization: Reallocate budget from the 'Others' category to high-margin categories like Sports and Beauty to maximize ROI.
 
